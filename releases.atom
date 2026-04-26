@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/ycarrot1/BermudaLauncher/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/ycarrot1/BermudaLauncher/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/ycarrot1/BermudaLauncher/releases.atom"/>
+  <title>Release notes from BermudaLauncher</title>
+  <updated>2026-01-31T17:45:15+09:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.9</id>
+    <updated>2026-01-31T17:53:41+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.9"/>
+    <title>Release v3.0.9</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.9.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.9-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.9-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.9.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix MSFT authentication and vulnerability issues by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3878763901&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/22&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/22/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/22&quot;&gt;#22&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.8...v3.0.9&quot;&gt;&lt;tt&gt;v3.0.8...v3.0.9&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.8</id>
+    <updated>2025-11-02T18:41:05+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.8"/>
+    <title>Release v3.0.8</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.8.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.8-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.8-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.8.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add original source GitHub link for proper third-party usage. by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3579106125&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/18&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/18/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/18&quot;&gt;#18&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bump electron from 33.4.11 to 39.0.0 by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/dependabot/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/dependabot&quot;&gt;@dependabot&lt;/a&gt;[bot] in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3579121752&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/19&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/19/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/19&quot;&gt;#19&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.7...v3.0.8&quot;&gt;&lt;tt&gt;v3.0.7...v3.0.8&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.7</id>
+    <updated>2025-11-01T00:13:13+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.7"/>
+    <title>Release v3.0.7</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.7.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.7-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.7-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.7.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Change background images, add icons and links to landing page, and update vulnerable dependencies. by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3575325095&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/17&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/17/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/17&quot;&gt;#17&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.6...v3.0.7&quot;&gt;&lt;tt&gt;v3.0.6...v3.0.7&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.6</id>
+    <updated>2025-05-06T18:35:03+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.6"/>
+    <title>Release v3.0.6</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.6.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.6-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.6-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.6.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Change font size of player count display and add new background images by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3042086072&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/16&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/16/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/16&quot;&gt;#16&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.5...v3.0.6&quot;&gt;&lt;tt&gt;v3.0.5...v3.0.6&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.5</id>
+    <updated>2025-04-20T20:56:29+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.5"/>
+    <title>Release v3.0.5</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.5.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.5-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.5-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.5.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Merge HeliosLauncher changes into MRSLauncher by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3006977174&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/15&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/15/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/15&quot;&gt;#15&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.4...v3.0.5&quot;&gt;&lt;tt&gt;v3.0.4...v3.0.5&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.4</id>
+    <updated>2025-02-21T15:24:27+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.4"/>
+    <title>Release v3.0.4</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.4.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.4-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.4-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.4.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enabled the news feed for the landing page. by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;2868099654&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/13&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/13/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/13&quot;&gt;#13&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.3...v3.0.4&quot;&gt;&lt;tt&gt;v3.0.3...v3.0.4&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.3</id>
+    <updated>2024-06-22T21:09:35+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.3"/>
+    <title>Release v3.0.3</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.3.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.3-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.3-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.3.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What&#39;s Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Merge Helios Launcher v2.2.1 updates. by &lt;a class=&quot;user-mention notranslate&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/peunsu/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;https://github.com/peunsu&quot;&gt;@peunsu&lt;/a&gt; in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;2367778386&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/peunsu/MRSLauncher/issues/10&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/peunsu/MRSLauncher/pull/10/hovercard&quot; href=&quot;https://github.com/peunsu/MRSLauncher/pull/10&quot;&gt;#10&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.2...v3.0.3&quot;&gt;&lt;tt&gt;v3.0.2...v3.0.3&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.2</id>
+    <updated>2024-02-18T16:00:32+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.2"/>
+    <title>Release v3.0.2</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;설치 파일&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: &lt;code&gt;MRS-Launcher-setup-3.0.2.exe&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS: &lt;code&gt;MRS-Launcher-setup-3.0.2-x64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;MacOS(arm): &lt;code&gt;MRS-Launcher-setup-3.0.2-arm64.dmg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linux: &lt;code&gt;MRS-Launcher-setup-3.0.2.AppImage&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changelog (변경 사항)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/11cce42f40bfe5bd4eacd605839affffb8e0de21&quot;&gt;&lt;code&gt;11cce42&lt;/code&gt;&lt;/a&gt; &lt;code&gt;distribution.json&lt;/code&gt;의 URL을 변경하였습니다. 일부 CSS 스타일과 배경 이미지 확장자를 변경하였습니다.&lt;/li&gt;
+&lt;li&gt;MS AppID가 승인되어 정상적으로 로그인이 가능합니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.1...v3.0.2&quot;&gt;&lt;tt&gt;v3.0.1...v3.0.2&lt;/tt&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.1</id>
+    <updated>2024-02-12T15:52:34+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.1"/>
+    <title>Pre-Release v3.0.1</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;Changelog (변경 사항)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/11cce42f40bfe5bd4eacd605839affffb8e0de21&quot;&gt;&lt;code&gt;11cce42&lt;/code&gt;&lt;/a&gt; &lt;code&gt;distribution.json&lt;/code&gt;의 URL을 변경하였습니다. 일부 CSS 스타일과 배경 이미지 확장자를 변경하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/65fb2201d52bb4713ee7bf7618eef23059cc17c5&quot;&gt;&lt;code&gt;65fb220&lt;/code&gt;&lt;/a&gt; 버전을 v3.0.1로 업데이트하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/v3.0.0...v3.0.1&quot;&gt;&lt;tt&gt;v3.0.0...v3.0.1&lt;/tt&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Known Issues (알려진 문제)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;현재 마이크로소프트 계정 로그인 기능은 아직 MS AppID 승인이 되지 않아 작동하지 않습니다. 승인이 되는 대로 해결될 예정입니다.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/320764618/v3.0.0</id>
+    <updated>2024-02-11T18:41:39+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/peunsu/MRSLauncher/releases/tag/v3.0.0"/>
+    <title>Pre-Release v3.0.0</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher&quot;&gt;Helios Launcher&lt;/a&gt;를 기반으로 제작된 Mystic Red Space 서버 전용 런처입니다.&lt;br&gt;
+런처를 사용하는 도중 아래 알려진 문제에 보고되지 않은 새로운 문제가 발생하면 &lt;a href=&quot;https://github.com/peunsu/MRSLauncher/issues&quot;&gt;이슈 페이지&lt;/a&gt;에 보고해주세요.&lt;/p&gt;
+&lt;h2&gt;Changelog (변경 사항)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/0ab617b898653296e8b3e20bdbdc71ad2fb2f9bb&quot;&gt;&lt;code&gt;0ab617b&lt;/code&gt;&lt;/a&gt; README를 업데이트하고, 이미지 및 아이콘을 변경하였습니다. 저작자 표시를 추가하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/95eebc18a7c288b07f411f14a3a8e826f2a86bd2&quot;&gt;&lt;code&gt;0ab617b&lt;/code&gt;&lt;/a&gt; Helios Launcher v2를 포크하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/a189c3857bf6e9538402158d55d19790c7787499&quot;&gt;&lt;code&gt;a189c38&lt;/code&gt;&lt;/a&gt; 폰트와 배경 이미지를 변경하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/02fd9876bd1a41a53ac989316fbe8b74692216ea&quot;&gt;&lt;code&gt;02fd987&lt;/code&gt;&lt;/a&gt; 한국어 번역 작업을 진행하고 모든 &quot;Helios Launcher&quot; 표기를 &quot;MRS Launcher&quot;로 변경하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/3294e0b46db0d15b52a0d958f319ffdbaf3a375e&quot;&gt;&lt;code&gt;3294e0b&lt;/code&gt;&lt;/a&gt;  랜딩 페이지의 로고 아이콘에서 원 테두리를 제거하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/peunsu/MRSLauncher/commit/1e00abcb3b80b08ff79d6d3e0c312ed3da345c93&quot;&gt;&lt;code&gt;1e00abc&lt;/code&gt;&lt;/a&gt; distribution.json 다운로드 URL을 변경하고 버전을 3.0.0으로 업데이트하였습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class=&quot;commit-link&quot; href=&quot;https://github.com/peunsu/MRSLauncher/compare/2.0.6...v3.0.0&quot;&gt;&lt;tt&gt;2.0.6...v3.0.0&lt;/tt&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Known Issues (알려진 문제)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;아직 버그를 발견하지 못했습니다.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>peunsu</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44690893?s=60&amp;v=4"/>
+  </entry>
+</feed>

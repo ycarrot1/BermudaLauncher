@@ -1,8 +1,8 @@
-appId: 'mrslauncher'
-productName: 'MRS Launcher'
-artifactName: 'MRS-Launcher-setup-${version}.${ext}'
+appId: 'bermudalauncher'
+productName: 'Bermuda Launcher'
+artifactName: 'Bermuda-Launcher-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2026 Daniel Scalzi, Copyright © 2024 peunsu'
+copyright: 'Copyright © 2018-2026 Daniel Scalzi, Copyright © 2024 peunsu, Copyright © 2026 ycarrot1'
 
 asar: true
 compression: 'maximum'
@@ -33,18 +33,23 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: 'MRS-Launcher-setup-${version}-${arch}.${ext}'
+  artifactName: 'Bermuda-Launcher-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi, peunsu'
-  vendor: 'Daniel Scalzi, peunsu'
-  synopsis: 'Modded Minecraft Launcher'
+  maintainer: 'Daniel Scalzi, peunsu, ycarrot1'
+  vendor: 'Daniel Scalzi, peunsu, ycarrot1'
+  synopsis: 'Custom Minecraft Launcher'
   description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
   category: 'Game'
 
+publish:
+  provider: 'github'
+  owner: 'ycarrot1'
+  repo: 'BermudaLauncher'
+  releaseType: 'release'
 
 directories:
   buildResources: 'build'
