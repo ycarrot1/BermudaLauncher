@@ -1,6 +1,6 @@
-appId: 'bermudalauncher'
-productName: 'Bermuda Launcher'
-artifactName: 'Bermuda-Launcher-setup-${version}.${ext}'
+appId: 'islandlauncher'
+productName: 'Island Launcher'
+artifactName: 'Island-Launcher-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2026 Daniel Scalzi, Copyright © 2024 peunsu, Copyright © 2026 ycarrot1'
 
@@ -33,7 +33,7 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: 'Bermuda-Launcher-setup-${version}-${arch}.${ext}'
+  artifactName: 'Island-Launcher-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration

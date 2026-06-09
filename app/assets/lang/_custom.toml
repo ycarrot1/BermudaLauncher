@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Bermuda Launcher"
+title = "Island Launcher"
 
 [ejs.landing]
 mediaHomeURL = "https://youtu.be/dQw4w9WgXcQ?si=lnImWfufnhCW0eFT"
@@ -11,13 +11,13 @@ mediaGitHubURL = "https://github.com/ycarrot1/BermudaLauncher"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/Pw2xaMz5yk"
+mediaDiscordURL = "https://discord.gg/QGcB4Tfejy"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/ycarrot1/BermudaLauncher"
 supportLink = "https://github.com/ycarrot1/BermudaLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "Bermuda Minecraft Custom Launcher"
-welcomeDescription = "새롭게 단장된 버뮤다 서버를 플레이 해주셔서 감사합니다."
+welcomeHeader = "Island Launcher"
+welcomeDescription = "아일랜드 서버를 플레이 해주셔서 감사합니다."
 welcomeDescCTA = "버그나 문제점이 발생한 경우 디스코드 서버를 방문해주세요."
